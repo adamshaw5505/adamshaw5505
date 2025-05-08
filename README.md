@@ -1,6 +1,8 @@
 # About Me:
 Hi I'm Adam, i'm a 3rd Year Mathematical Physics PhD Student at the University of Nottingham currently. This Github contains a few projects that I have used through my studies, this includes a project I worked on during my undergraduate Physics with Theoretical Physics degree.
 
+# Projects:
+
 ## Differential Forms:
 This is a python package, built upon sympy, that allows generic tensor manipulations. As the name suggest it is designed around the use of differential forms. This package is a work in development and will be updated when I require it to do certain tasks. Bug fixes are infrequent.
 
