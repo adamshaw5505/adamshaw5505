@@ -6,3 +6,6 @@ This is a python package, built upon sympy, that allows generic tensor manipulat
 
 ## Numerical Integrator:
 This is code I have written, in C++, for the purposes of numercically integrating different systems of partial differential equations. It is built around the method of lines and allows for custom PDE's to added with not too much work. In general it works in 3D however there is built in functionality for lower dimensions.
+
+## Percolations:
+A 3rd year undergraduate scientific computing project involving joint work with Oliver Dudgeon and Joseph Parker modeling site percolation on a 2D lattice to simulate the ising model and forest fires.
