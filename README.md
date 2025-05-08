@@ -9,3 +9,6 @@ This is code I have written, in C++, for the purposes of numercically integratin
 
 ## Percolations:
 A 3rd year undergraduate scientific computing project involving joint work with Oliver Dudgeon and Joseph Parker modeling site percolation on a 2D lattice to simulate the ising model and forest fires.
+
+## Symplectic N-Body Simulations
+Scientific Computing project comparing two different numerical integration techniques and comparing their effectiveness in different physical setups. The project uses finite difference and the method of lines to evolve point particles according to newtons laws of gravitation.
